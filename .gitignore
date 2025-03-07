@@ -1,0 +1,16 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore model and dataset files
+*.h5
+*.pkl
+ufc-master.csv
+
+# Ignore node modules
+node_modules/

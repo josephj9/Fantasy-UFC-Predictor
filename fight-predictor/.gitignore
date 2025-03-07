@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore model and dataset files (optional, based on what you want to keep private)
+*.h5
+*.pkl
+ufc-master.csv
+
+# Ignore node modules
+node_modules/
