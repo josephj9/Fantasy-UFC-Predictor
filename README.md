@@ -7,8 +7,10 @@ The Fantasy UFC Predictor is a machine learning-based application designed to pr
 For this project, I
 • Developed a web-based Fantasy Fight Predictor using TensorFlow, Flask, PostgreSQL, and React, enabling real-time fight outcome predictions
 based on fighter statistics.
+
 • Trained a deep learning model with advanced feature engineering on UFC fight data, improving prediction accuracy using a neural network
 with scaled inputs.
+
 • Built a full-stack system integrating a Flask API, PostgreSQL database for fighter profiles, and a React UI for user interaction, ensuring
 seamless data flow and accessibility.
 
