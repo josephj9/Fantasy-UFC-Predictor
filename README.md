@@ -5,6 +5,7 @@ Welcome to the Fantasy UFC Predictor! This project aims to predict the outcomes 
 The Fantasy UFC Predictor is a machine learning-based application designed to predict the outcomes of UFC fights. By analyzing historical fight data, fighter statistics, and various other features, the predictor aims to provide accurate predictions for upcoming fights.
 
 For this project, I
+
 • Developed a web-based Fantasy Fight Predictor using TensorFlow, Flask, PostgreSQL, and React, enabling real-time fight outcome predictions
 based on fighter statistics.
 
