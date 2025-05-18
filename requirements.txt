@@ -1,0 +1,33 @@
+# Data Processing and Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web Scraping and API Requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Web Framework (for JavaScript/HTML/CSS integration)
+flask>=2.3.0
+
+# Data Format Handling
+json5>=0.9.0
+pyyaml>=6.0.0
+
+# PostgreSQL Database Integration
+psycopg2-binary>=2.9.9  # PostgreSQL adapter for Python
+SQLAlchemy>=2.0.0      # SQL toolkit and ORM
+alembic>=1.12.0        # Database migration tool
+python-dotenv>=1.0.0   # For managing database credentials
+
+# Optional but recommended for enhanced performance
+numba>=0.57.0
