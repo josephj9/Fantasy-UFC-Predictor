@@ -1,3 +1,8 @@
+# Web Framework and Server
+flask>=2.3.0
+gunicorn>=21.2.0    # Required for deployment on Render
+Werkzeug>=2.3.0     # Required by Flask
+
 # Data Processing and Analysis
 numpy>=1.24.0
 pandas>=2.0.0
@@ -16,18 +21,11 @@ seaborn>=0.12.0
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 
-# Web Framework (for JavaScript/HTML/CSS integration)
-flask>=2.3.0
-
-# Data Format Handling
-json5>=0.9.0
-pyyaml>=6.0.0
-
 # PostgreSQL Database Integration
-psycopg2-binary>=2.9.9  # PostgreSQL adapter for Python
-SQLAlchemy>=2.0.0      # SQL toolkit and ORM
-alembic>=1.12.0        # Database migration tool
-python-dotenv>=1.0.0   # For managing database credentials
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.0
+alembic>=1.12.0
+python-dotenv>=1.0.0
 
 # Optional but recommended for enhanced performance
 numba>=0.57.0
